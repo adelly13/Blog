@@ -1,0 +1,33 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Adelina's Blog"
+theme = "hugo-swift-theme"
+author = "Adelina Chau"
+
+[params]
+  [params.designer]
+    name = "Adelina Chau"
+    url = "https://www.instagram.com/add_ballet/"
+  [[params.authors]]
+    name = "Adelina Chau"
+    fullName = "Adelina Chau"
+    bio = "Hey there!"
+    photo = "../images/pfp.jpg"
+
+[menu]
+  [[menu.main]]
+    name = "About Me"
+    url = "about/"
+    weight = 2
+  [[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 3
+  [[menu.main]]
+    name = "Personal"
+    url = "/tags/personal"
+    weight = 4
+  [[menu.main]]
+    name = "Travel"
+    url = "/tags/travel"
+    weight = 5
