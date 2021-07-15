@@ -1,3 +1,4 @@
+baseURL = "https://adelly13.github.io/Blog/"
 languageCode = "en-us"
 title = "Adelina's Blog"
 theme = "hugo-swift-theme"

@@ -1,11 +1,9 @@
-+++
-tags = [
-    "Personal",
-]
-title = "About Me"
-date = "2021-07-14"
-image = "adelina.jpg"
-+++
+---
+tags: ["Personal"]
+title: "About Me"
+date: 2021-07-14
+image: 'adelina.jpg'
+---
 
 Hey there! My name is Adelina, but amongst my friends, I am often called one of the many nicknames I have. Just to give you a sense of what I mean by many, my nicknames include Adel, Adol, Addition, Adelania, Addy, Adellybean, Adelama—the list goes on.
 
