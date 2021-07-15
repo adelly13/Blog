@@ -1,4 +1,3 @@
-baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Adelina's Blog"
 theme = "hugo-swift-theme"
