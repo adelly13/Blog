@@ -1,4 +1,4 @@
-baseURL = "https://adelly13.github.io/Blog/"
+baseURL = "http://blog.adelinachau.tech"
 publishDir = "/Users/adelinac/Coding/MyProjects/blog/docs"
 languageCode = "en-us"
 title = "Adelina's Blog"
