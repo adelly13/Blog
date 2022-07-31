@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adelina&#39;s Blog</title>
-    <link>https://blog.adelinachau.tech/</link>
+    <link>https://blog.adelinachau.com/</link>
     <description>Recent content on Adelina&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jul 2021 08:51:59 -0700</lastBuildDate><atom:link href="https://blog.adelinachau.tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jul 2021 08:51:59 -0700</lastBuildDate><atom:link href="https://blog.adelinachau.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stars Over Yosemite</title>
-      <link>https://blog.adelinachau.tech/posts/stars-over-yosemite/</link>
+      <link>https://blog.adelinachau.com/posts/stars-over-yosemite/</link>
       <pubDate>Wed, 14 Jul 2021 08:51:59 -0700</pubDate>
       
-      <guid>https://blog.adelinachau.tech/posts/stars-over-yosemite/</guid>
+      <guid>https://blog.adelinachau.com/posts/stars-over-yosemite/</guid>
       <description>The first time I went stargazing was at the age of 15, which is rather late compared to most people. A good reason for this might be thanks to the fact that I live in a pretty big city, hence light pollution is a real big issue.
 Don&amp;rsquo;t get me wrong. I love the urban suburban vibe where I live, but it really isn&amp;rsquo;t ideal for stargazing. Here, staring up at the sky at even the darkest times of the day only allowed me to see a handful of stars, so growing up, thats how I thought things were–just a few stars here and there randomly scattered across the sky.</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://blog.adelinachau.tech/about/</link>
+      <link>https://blog.adelinachau.com/about/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.adelinachau.tech/about/</guid>
+      <guid>https://blog.adelinachau.com/about/</guid>
       <description>Hey there! My name is Adelina, but amongst my friends, I am often called one of the many nicknames I have. Just to give you a sense of what I mean by many, my nicknames include Adel, Adol, Addition, Adelania, Addy, Adellybean, Adelama—the list goes on.
 My interests range from Computer Science to Business to Dance, and recently, I&amp;rsquo;ve found a growing interest in Physics.
 As most of my friends know, I enjoy reading non-fiction books.</description>

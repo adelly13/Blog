@@ -1,4 +1,4 @@
-baseURL = "https://blog.adelinachau.tech"
+baseURL = "https://blog.adelinachau.com"
 publishDir = "/Users/adelinac/Coding/MyProjects/blog/docs"
 languageCode = "en-us"
 title = "Adelina's Blog"
@@ -8,7 +8,7 @@ author = "Adelina Chau"
 [params]
   [params.designer]
     name = "Adelina Chau"
-    url = "https://www.instagram.com/add_ballet/"
+    url = "https://www.linkedin.com/in/adelinac13/"
   [[params.authors]]
     name = "Adelina Chau"
     fullName = "Adelina Chau"
