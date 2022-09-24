@@ -5,7 +5,7 @@ date: 2021-07-14
 image: 'adelina.jpg'
 ---
 
-Hey there! My name is Adelina, but amongst my friends, I am often called one of the many nicknames I have. Just to give you a sense of what I mean by many, my nicknames include Adel, Adol, Addition, Adelania, Addy, Adellybean, Adelama—the list goes on.
+Hey there! My name is Adelina, but amongst my friends, I am often called one of the many nicknames I have. Just to give you a sense of what I mean by many, my nicknames include Adel, Adol, Addition, Adelania, Addy, Adellybean—the list goes on.
 
 My interests range from Computer Science to Business to Dance, and recently, I've found a growing interest in Physics.
 
@@ -17,8 +17,8 @@ At this point, you're probably thinking, "Bruh, get a life", but trust me, I do 
 
 Remember how I said some rabbit holes I go down are definitely more educational than others? Well, I'll let you decide this for yourself. The K-pop and C-pop hole is one of the strongest holes I can be sucked down. The only stronger hole is probably a blackhole. When I am not in a specific Youtube hole, I enjoy watching baking/cooking and dance videos.
 
-If you didn't get the hint already, I listen to lots and lots of K-pop and C-pop, thanks to my wonderful friend Tanay. My favorite singer is Eric Chou. His songs are amazing. For starters, I recommend you listen to *[小时候的我们](https://www.youtube.com/watch?v=lxsOcRm3dsU)*, *[怎么了](https://www.youtube.com/watch?v=Y2ge3KrdeWs)*，*[你好不好](https://www.youtube.com/watch?v=wSBXfzgqHtE)*, *[爱我的时候](https://www.youtube.com/watch?v=bG563p_moiE)*, and *[Rollercoasters](https://www.youtube.com/watch?v=l9GRmPeMr5c)*. As for K-pop, I enjoy listening to Twice, Itzy, BTS, Red Velvet, IU, and Taeyeon. If you ever need a song recommendation, do not hesistate to reach out!
+If you didn't get the hint already, I listen to lots and lots of K-pop and C-pop. My favorite singer is Eric Chou. His songs are amazing. For starters, I recommend you listen to *[小时候的我们](https://www.youtube.com/watch?v=lxsOcRm3dsU)*, *[怎么了](https://www.youtube.com/watch?v=Y2ge3KrdeWs)*，*[你好不好](https://www.youtube.com/watch?v=wSBXfzgqHtE)*, *[爱我的时候](https://www.youtube.com/watch?v=bG563p_moiE)*, and *[Rollercoasters](https://www.youtube.com/watch?v=l9GRmPeMr5c)*. As for K-pop, I enjoy listening to Twice, Itzy, BTS, Red Velvet, IU, and Taeyeon. If you ever need a song recommendation, do not hesistate to reach out!
 
-Unfortunately, I do not have any movie recommendations, since I am not the biggest fan of movies. However, I do watch C-drama. A few that I enjoyed watching include《爱情进化论》and《致我们单纯的小美好》.
+Unfortunately, I do not have any movie recommendations, since I am not the biggest fan of movies. However, I do watch C-drama. A few that I enjoyed watching include《爱情进化论》,《你是我的城池营垒》, and 《冰糖炖雪梨》.
 
 With that, I hope you enjoy reading my other blogs!
