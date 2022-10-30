@@ -12,7 +12,7 @@ author = "Adelina Chau"
   [[params.authors]]
     name = "Adelina Chau"
     fullName = "Adelina Chau"
-    bio = "Hi! My name is Adelina, and I am a junior at Archbishop Mitty High School. I enjoy coding and dancing. I really love pandas and rollercoasters. In my free time, I like to bake and to listen to Cpop, Kpop, and some Hindi songs."
+    bio = "Hi! My name is Adelina, and I am a junior at Archbishop Mitty High School. I enjoy coding and dancing. I really love pandas and rollercoasters. In my free time, I like to bake and to listen to Cpop and Kpop songs."
     photo = "../images/pfp.jpg"
 
 [menu]
