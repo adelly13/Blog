@@ -3,7 +3,6 @@ tags: ["Interests"]
 title: "The Quantum Hype"
 author: "Adelina Chau"
 date: 2022-10-09T12:18:42-07:00
-draft: true
 image: 'quantumhype.jpg'
 ---
 
@@ -17,11 +16,11 @@ First things first: Electrons are weird, and that weirdness is the foundation fo
 
 Electrons act like both a particle and a wave. Yes, the "and" is not a typo. Now what exactly does this mean? To better understand what this means, let's take a look at the behavior of particles and waves through Thomas Young's infamous [Double Slit experiment](https://en.wikipedia.org/wiki/Double-slit_experiment)!
 
-Suppose you had two slits in a cardboard placed in front of a wall and you shot some partcles through the slits, this is what you'd see on the wall:
+Suppose you have two slits in a cardboard placed in front of a wall and you shoot some partcles through the slits, this is what you'd see on the wall:
 
 ![](/images/slitparticles.png)
 
-Suppose you still had two slits in a cardboard placed in front of a wall but instead you send waves through the slits, this is what you'd see on the wall:
+Suppose you still have two slits in a cardboard placed in front of a wall but instead you send waves through the slits, this is what you'd see on the wall:
 
 ![](/images/slitwaves.png)
 
@@ -40,11 +39,11 @@ While Rutherford's model was an improvement, it didn't provide any explanation a
 
 That's where Neils Bohr and Erwin Schrodinger come in. Bohr declared that the electrons occupy discrete energy levels or orbits around the electron; the closer the electron is to the nucleus, the less energy the electron has. Electrons can also move from one energy level to another by absorbing or radiating energy. Schrodinger built off this thought by stating electrons don't just occupy orbits, but rather, due to its wave-like nature, occupies regions in space known as orbitals, giving rise to the [Electron Cloud Model or the Quantum Mechanical Model](https://www.khanacademy.org/science/physics/quantum-physics/quantum-numbers-and-orbitals/a/the-quantum-mechanical-model-of-the-atom). The electrons can be anywhere within its region of space; there's no way to predict the exact location. Instead, we can only find the probability than an electron is in a given region, which is elegantly represented by the [Schrodinger wave equation](https://byjus.com/jee/schrodinger-wave-equation/). The Electron Cloud Model is the current accepted atomic model.
 
-Wow. That was a lot of information, and by now, you may be wondering why electron's weirdness, Schrodinger's wave equation, and the electron cloud matters. It's because not only does many quantum mechanical phenomena like superposition, entanglement, and measurement result from these concepts, but everything quantum computing related builds off of them. Of course, everything I talked about here is only a very small portion of the history of quantum mechanics, so feel free to look more into everything.
+Wow. That was a lot of information, and by now, you may be wondering why electron's weirdness, wave-particle duality, Schrodinger's wave equation, and the electron cloud matters. It's because not only does many quantum mechanical phenomena like superposition, entanglement, and measurement result from these concepts, but everything quantum computing related builds off of them. Of course, everything I talked about here is only a very small portion of the history of quantum mechanics, so feel free to look more into everything.
 
 As a quick side note, here is a description of what superposition, entanglement, and measurement are:
-- [Superposition](https://en.wikipedia.org/wiki/Quantum_superposition) refers to how a quantum object can exist in multiple states at the same time due to its wave-like nature. Like electrons in an atom, we can never know what state the quantum object is in with certainty, so we express the possible states for the superposiiton with probabilities.
-- [Entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement) refers to how the wave-like nature of quantum objects allows for the waves of various quantum objects to essentially add up and become expressed as only one wave.
+- [Superposition](https://en.wikipedia.org/wiki/Quantum_superposition) refers to how a quantum object can exist in multiple states at the same time due to its wave-like nature. Like electrons in an atom, we can never know what state the quantum object is in with certainty, so we express the possible states for the quantum object in superposiiton with probabilities.
+- [Entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement) refers to how the wave-like nature of quantum objects allows for the waves of various quantum objects to essentially add up and become expressed as only one wave. Whatever happens to one quantum object will affect all the other entangled quantum objects.
 - [Measurement](https://en.wikipedia.org/wiki/Measurement_in_quantum_mechanics) refers to how when we observe a quantum object, it immediately collapses to one state from superposition. This means two things: we will never be able to observe a quantum object in superposition and the state that it collapses to is entirely probabilistic.
 
 Now that you have a bit of an idea of how quantum mechanics came to be, let's dive into the hype surrounding quantum computing.
